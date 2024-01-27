@@ -1,3 +1,5 @@
+> Website hosted at: https://casualclicks.github.io/sudoku/
+
 # Sudoku
 This is a simple Web Based Sudoku solver,implemented using ReactJS as frontend and vanilla javascript for scripting. The game would allow user to randomly fill n number of cells (n>=0 and n<=81), and scripting would take care of auto completing the complete sudoku.
 
