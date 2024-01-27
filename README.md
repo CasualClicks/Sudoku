@@ -5,7 +5,7 @@ This is a simple Web Based Sudoku solver,implemented using ReactJS as frontend a
 
 # Credits
 The credits for this project, along with the logic used and javascript used, goes to video: "ASMR Programming - Sudoku Solver in JavaScript - No Talking"
-[Link]()
+[Link](https://www.youtube.com/watch?v=t8MdFS0Evbk)
 
 # Features
 <ul>
